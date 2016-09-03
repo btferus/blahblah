@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 adgasdgasdgasdgasdasdvASDVASDVASDGASGSADgwetadsdsawhateverilikeasdgsadgasdg
+=======
+asdgsadgasdg fjldfeifkdf
+>>>>>>> e7dd4fc73a0fc72dea43da14f03ddbc11112d397
